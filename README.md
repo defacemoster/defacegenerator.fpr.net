@@ -1,5 +1,5 @@
 # SCRIPT DEFACE GENERATOR
-<h1 align="center">SCRIPT DEFACE GENERATOR</h1>
+<h1 align="center">SCRIPT GENERATOR V1</h1>
 
 <p>
  SCRIPT DEFACE GENERATOR adalah tools untuk para peretas melakukan deface.
