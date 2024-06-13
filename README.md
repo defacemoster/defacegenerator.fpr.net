@@ -7,4 +7,4 @@
 Demo: https://defacegenerator.fpr.net/
 <br>
 
-![Tulisno Preview](https://i.ibb.co.com/2hPxxV9/bno.png)
+![Tulisno Preview](https://i.ibb.co.com/TKy2jT8/generator.png)
